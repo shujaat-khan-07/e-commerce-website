@@ -3,8 +3,8 @@ I developed a responsive e-commerce website for furniture that provides users wi
 
  Key Features: 
 
--User-Friendly Interface , Product Display:
+-User-Friendly Interface , Product Display.
 
  Technologies Used: 
 
--HTML ,CSS,JavaScript ,Swiper Library ,ScrollReveal Library
+-HTML ,CSS,JavaScript ,Swiper Library ,ScrollReveal Library.
